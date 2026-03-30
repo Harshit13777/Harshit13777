@@ -1,6 +1,6 @@
 ## Hi, I'm Harshit 👋
 
-Software Development Engineer (Full Stack) with experience building
+Software Engineer (Full Stack) with experience building
 production-grade mobile applications and backend systems.
 
 ### What I work on
@@ -9,6 +9,7 @@ production-grade mobile applications and backend systems.
 - Backend APIs using Django, Node.js, and Spring Boot
 - Admin dashboards and system tooling
 - Cloud deployment on AWS
+- AI Agents
 
 ### Tech Stack
 - Languages: Java, JavaScript, TypeScript, Python
